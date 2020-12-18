@@ -53,3 +53,8 @@ https://stackoverflow.com/questions/52562020/how-to-import-svg-to-unity-2018-2/5
 24bit PNG Generator (for use in Vuforia)
 ---------------------------------------
 http://picturetopeople.org/image_utilities/image_converter.html
+
+
+LICENSE
+-------
+Except where otherwise noted, all original content here are released under [MIT license](https://opensource.org/licenses/MIT). However, part of the work here are derived from other 3rd party projects and as a result follow the licenses of their original sources.
